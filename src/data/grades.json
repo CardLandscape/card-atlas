@@ -1,0 +1,7 @@
+[
+  {"id":"standard","name":"普卡","tier":1,"description":"基础信用卡，适合日常消费"},
+  {"id":"gold","name":"金卡","tier":2,"description":"进阶信用卡，享有更多优惠权益"},
+  {"id":"platinum","name":"白金卡","tier":3,"description":"高端信用卡，提供全面的出行和生活权益"},
+  {"id":"diamond","name":"钻石卡","tier":4,"description":"顶级信用卡，专属尊贵服务与礼遇"},
+  {"id":"infinite","name":"无限卡","tier":5,"description":"最高端信用卡，无限制尊享全球顶级权益"}
+]

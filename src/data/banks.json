@@ -1,0 +1,20 @@
+[
+  {"id":"icbc","name":"中国工商银行","shortName":"工商银行","code":"ICBC","type":"state","logo":"","website":"https://www.icbc.com.cn","hotline":"95588"},
+  {"id":"abc","name":"中国农业银行","shortName":"农业银行","code":"ABC","type":"state","logo":"","website":"https://www.abchina.com","hotline":"95599"},
+  {"id":"boc","name":"中国银行","shortName":"中国银行","code":"BOC","type":"state","logo":"","website":"https://www.boc.cn","hotline":"95566"},
+  {"id":"ccb","name":"中国建设银行","shortName":"建设银行","code":"CCB","type":"state","logo":"","website":"https://www.ccb.com","hotline":"95533"},
+  {"id":"bocom","name":"交通银行","shortName":"交通银行","code":"BOCOM","type":"state","logo":"","website":"https://www.bankcomm.com","hotline":"95559"},
+  {"id":"psbc","name":"中国邮政储蓄银行","shortName":"邮储银行","code":"PSBC","type":"state","logo":"","website":"https://www.psbc.com","hotline":"95580"},
+  {"id":"cmb","name":"招商银行","shortName":"招商银行","code":"CMB","type":"joint-stock","logo":"","website":"https://www.cmbchina.com","hotline":"95555"},
+  {"id":"spdb","name":"上海浦东发展银行","shortName":"浦发银行","code":"SPDB","type":"joint-stock","logo":"","website":"https://www.spdb.com.cn","hotline":"95528"},
+  {"id":"citic","name":"中信银行","shortName":"中信银行","code":"CITIC","type":"joint-stock","logo":"","website":"https://www.citicbank.com","hotline":"95558"},
+  {"id":"ceb","name":"中国光大银行","shortName":"光大银行","code":"CEB","type":"joint-stock","logo":"","website":"https://www.cebbank.com","hotline":"95595"},
+  {"id":"hxb","name":"华夏银行","shortName":"华夏银行","code":"HXB","type":"joint-stock","logo":"","website":"https://www.hxb.com.cn","hotline":"95577"},
+  {"id":"cmbc","name":"中国民生银行","shortName":"民生银行","code":"CMBC","type":"joint-stock","logo":"","website":"https://www.cmbc.com.cn","hotline":"95568"},
+  {"id":"cgb","name":"广发银行","shortName":"广发银行","code":"CGB","type":"joint-stock","logo":"","website":"https://www.cgbchina.com.cn","hotline":"95508"},
+  {"id":"cib","name":"兴业银行","shortName":"兴业银行","code":"CIB","type":"joint-stock","logo":"","website":"https://www.cib.com.cn","hotline":"95561"},
+  {"id":"pab","name":"平安银行","shortName":"平安银行","code":"PAB","type":"joint-stock","logo":"","website":"https://bank.pingan.com","hotline":"95511"},
+  {"id":"czb","name":"浙商银行","shortName":"浙商银行","code":"CZB","type":"joint-stock","logo":"","website":"https://www.czbank.com","hotline":"95527"},
+  {"id":"egb","name":"恒丰银行","shortName":"恒丰银行","code":"EGB","type":"joint-stock","logo":"","website":"https://www.hfbank.com.cn","hotline":"95318"},
+  {"id":"cbhb","name":"渤海银行","shortName":"渤海银行","code":"CBHB","type":"joint-stock","logo":"","website":"https://www.cbhb.com.cn","hotline":"95541"}
+]

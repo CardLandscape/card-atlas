@@ -1,0 +1,8 @@
+[
+  {"id":"unionpay","name":"银联","code":"UnionPay","logo":""},
+  {"id":"visa","name":"Visa","code":"Visa","logo":""},
+  {"id":"mastercard","name":"万事达卡","code":"Mastercard","logo":""},
+  {"id":"amex","name":"美国运通","code":"Amex","logo":""},
+  {"id":"jcb","name":"JCB","code":"JCB","logo":""},
+  {"id":"discover","name":"发现卡","code":"Discover","logo":""}
+]
